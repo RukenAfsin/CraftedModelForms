@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OtelAlıstırmaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="OtelBilgi">
+    <Key>
+      <PropertyRef Name="OtelNo" />
+    </Key>
+    <Property Name="OtelNo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OtelAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="OdaSayisi" Type="int" />
+    <Property Name="YıldızSayisi" Type="int" />
+    <Property Name="Konsept" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sehir" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Personel">
+    <Key>
+      <PropertyRef Name="PersonelNo" />
+    </Key>
+    <Property Name="PersonelNo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdSoyad" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="OtelAlıstırmaModelStoreContainer">
+    <EntitySet Name="OtelBilgi" EntityType="Self.OtelBilgi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Personel" EntityType="Self.Personel" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

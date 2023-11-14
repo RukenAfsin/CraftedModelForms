@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\bin\Debug\OtelAlıstırma.exe.config
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\bin\Debug\OtelAlıstırma.exe
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\bin\Debug\OtelAlıstırma.pdb
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\obj\Debug\OtelAlıstırma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\obj\Debug\OtelAlıstırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\obj\Debug\OtelAlıstırma.Form1.resources
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\obj\Debug\OtelAlıstırma.Properties.Resources.resources
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\obj\Debug\OtelAlıstırma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\obj\Debug\OtelAlıstırma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\obj\Debug\OtelAlıstırma.csproj.CopyComplete
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\obj\Debug\OtelAlıstırma.exe
+C:\Users\User\Desktop\C # UYGULAMA\OtelAlıstırma\OtelAlıstırma\obj\Debug\OtelAlıstırma.pdb
